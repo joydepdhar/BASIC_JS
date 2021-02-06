@@ -1,3 +1,4 @@
+
 //kilometerToMeter
 function kilometerToMeter(kilometer) {
     if (kilometer > 0 ) {
@@ -11,6 +12,8 @@ function kilometerToMeter(kilometer) {
 }
 // var hop =kilometerToMeter(-20);
 // console.log(hop);
+
+
 // budgetCalculator
 function budgetCalculator(watch, phone, laptop){
     if(watch,phone,laptop>0){
@@ -27,6 +30,8 @@ function budgetCalculator(watch, phone, laptop){
 }
 // var hop = budgetCalculator(-2,-4,-1);
 // console.log(hop);
+
+
 //hotelCost
 function hotelCost(days){
     if(days<=0){
@@ -52,6 +57,7 @@ function hotelCost(days){
 }
 // var hop =hotelCost(40);
 // console.log(hop);
+// megaFriend
 function megaFriend(friend) {
 
     var longestName = friend[0];
